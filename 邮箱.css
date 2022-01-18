@@ -1,0 +1,57 @@
+	*{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .welcome{
+        text-align:
+        center;
+        font-size:40px;
+        color:rgb(255, 126, 186);}
+
+	a{
+        color: lightblue;
+        text-decoration: none;
+    }
+
+	body{ 
+        font-family:  "方正喵呜体";
+        background: rgba(235, 157, 200, 0.253);
+        background-size:100% 100%;
+        background-attachment:fixed;
+        color: rgb(100, 100, 100);
+    }
+    #app1{
+        width:300px;
+        margin:40px auto;
+        font-size:20px;
+    }
+	label{
+        display: inline-block;
+        width:80px;
+        height: 50px;
+        text-align: center;
+    }
+
+    .input{
+        width:200px;
+        height: 38px;
+        border-radius: 4px;
+    }
+
+    .checkbox{
+        font-size: 14px;
+        margin-left: 20px;
+    }
+    #register{
+        width: 270px;
+        height: 38px;
+        border-radius: 5px;
+        background:pink;
+        border: 1px solid  silver;
+        color: white;
+        font-size: 18px;
+        cursor: pointer;
+        margin-top: 10px;
+    }
+  
